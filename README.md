@@ -10,7 +10,7 @@
   <img align="center" alt="Loyerss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Loyerss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Loyerss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Loyerss-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/781160090794197022/e0a6e634cc0d6280f2368fc657911b4b.webp?size=256">
+  <img align="right" alt="Loyerss-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/781160090794197022/8a89035c9b0cd3d2577fad017a6a88c4.webp?size=256">
 </div>
   
 ##
